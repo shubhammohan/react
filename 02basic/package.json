@@ -1,13 +1,11 @@
 {
-
-
-
-
+  
   "name": "02basic",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "proxy": "https://localhost:5173/",
+
   "scripts": {
     "dev": "vite",
     "build": "vite build",
